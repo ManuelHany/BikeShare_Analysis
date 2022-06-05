@@ -41,6 +41,11 @@ counts of each user type
 counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
+All project data files:
+[washington.zip](https://github.com/ManuelHany/BikeShare_Analysis/files/8839703/washington.zip)
+[chicago.zip](https://github.com/ManuelHany/BikeShare_Analysis/files/8839704/chicago.zip)
+[new_york_city.zip](https://github.com/ManuelHany/BikeShare_Analysis/files/8839705/new_york_city.zip)
+
 The Files:
 chicago.csv
 new_york_city.csv
