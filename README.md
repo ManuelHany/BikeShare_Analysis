@@ -46,9 +46,9 @@ All project data files:
 
 
 - Steps to run project:
-1- Download/Clone project data as ZIP then extract all data.
-2- In the readme file(the current file), scroll down to the "All poject data files" section.
-3- Download all 3 data sets as zip. 
-4- Browse to the main profect directory and extract all data files inside it. 
-5- From any terminal, Browse to the project directory and type the command -> python .\bikeshare_2.py
-6- Next, the project will auto navigate you through the analysis filters and outputs based on your requests
+#1 Download/Clone project data as ZIP then extract all data.
+#2 In the readme file(the current file), scroll down to the "All poject data files" section.
+#3 Download all 3 data sets as zip. 
+#4 Browse to the main profect directory and extract all data files inside it. 
+#5 From any terminal, Browse to the project directory and type the command -> python .\bikeshare_2.py
+#6 Next, the project will auto navigate you through the analysis filters and outputs based on your requests
